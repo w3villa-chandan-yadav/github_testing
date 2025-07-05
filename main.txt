@@ -1,3 +1,6 @@
+first commint in the main 
+second commit from brnch1 
+Third commit from branch2
 
 first commint in the main
 This is the commit from main to make this branch ahead 
